@@ -1,0 +1,17 @@
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/UnityEngine.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/UnityEditor.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Mono.Cecil.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Unity.DataContract.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/obj/Debug/Assembly-CSharp.dll
+/Users/grandnumber/Google Drive/MAKESCHOOL/spaceinvaders/spaceinvaders/obj/Debug/Assembly-CSharp.dll.mdb
