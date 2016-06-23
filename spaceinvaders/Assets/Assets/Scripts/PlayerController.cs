@@ -12,6 +12,11 @@ public class PlayerController : MonoBehaviour {
 	public float speed; 
 	public Boundary boundary; 
 	public float tilt; 
+	public GameObject laser; 
+	public Transform laserSpawn; 
+	public float fireRate; 
+	private float nextFire;
+
 
 
 	// Use this for initialization
@@ -21,7 +26,8 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
+		//Mover the Player:	
 		float moveH = Input.GetAxis ("Horizontal");
 		float moveV = Input.GetAxis ("Vertical");
 
@@ -37,5 +43,12 @@ public class PlayerController : MonoBehaviour {
 			);
 
 		rb.rotation = Quaternion.Euler (0.0f, 0.0f, rb.velocity.x * -tilt);
+
+//		Get laser firing:
+		if (Input.GetButton("Fire1") && Time.time > nextFire)
+		{
+			nextFire = Time.time + fireRate;
+			Instantiate(laser, laserSpawn.position, laserSpawn.rotation);
+		}
 	}
 }
